@@ -14,7 +14,8 @@ cuImage可以用来方便地上传图片到远程图床并获取Markdown格式�
 
 只支持七牛云，已兼容七牛云华东、华北、华南及北美的存储区域。
 
-<p><a href="https://itunes.apple.com/us/app/cuimage-upload-images-get/id1202764942?ls=1&mt=12"><img src="http://ohcoqbf8e.bkt.clouddn.com/20170207085627_QMasGZ_Download_on_the_App_Store_Badge_CN_135x40.png" style="border:0px" align="left"></a></p></br></br>
+可直接下载，兼容新版本的macOS Mojave。
+<p><a href="https://itunes.apple.com/cn/app/cuimage/id1446702129?mt=12"><img src="http://ohcoqbf8e.bkt.clouddn.com/20170207085627_QMasGZ_Download_on_the_App_Store_Badge_CN_135x40.png" style="border:0px" align="left"></a></p></br></br>
 
 # 演示
 
